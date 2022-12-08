@@ -1,1 +1,3 @@
 Ala ma psa.
+
+Dodanie nowej, eksperymentalnej funkcjonalnosci.
